@@ -48,11 +48,13 @@ The robot is capable of identifying a registered user, maintaining a safe follow
 ### Programming & AI
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=00FFFF)
 ![OpenCV](https://img.shields.io/badge/OpenCV-000?style=for-the-badge&logo=opencv&logoColor=FF00FF)
+![Llama](https://img.shields.io/badge/Llama-000?style=for-the-badge&logo=meta&logoColor=00FFFF)
 
 ### Hardware & IoT
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-000?style=for-the-badge&logo=raspberrypi&logoColor=39FF14)
 ![Ultrasonic Sensor](https://img.shields.io/badge/Ultrasonic%20Sensor-000?style=for-the-badge&logo=arduino&logoColor=00FFFF)
 ![Motor Driver](https://img.shields.io/badge/Motor%20Driver-000?style=for-the-badge&logo=robotframework&logoColor=FF00FF)
+![Relay Module](https://img.shields.io/badge/Relay%20Module-000?style=for-the-badge&logo=arduino&logoColor=00FFFF)
 
 ### Communication
 ![IoT](https://img.shields.io/badge/IoT-000?style=for-the-badge&logo=internetofthings&logoColor=39FF14)
