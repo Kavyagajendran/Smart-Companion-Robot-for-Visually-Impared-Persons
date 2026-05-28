@@ -1,4 +1,4 @@
-# IoT---Vision-based-guding-and-navigation-robot
+# Smart Companion Robot for Visually Impared Persons
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,100:b21f1f&height=180&section=header&text=Vision-Based%20Guiding%20and%20Navigation%20Robot&fontSize=34&fontColor=ffffff" />
