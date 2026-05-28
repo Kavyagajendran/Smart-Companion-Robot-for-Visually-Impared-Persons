@@ -7,7 +7,7 @@
 <p align="center">
   <b>IoT-Enabled Intelligent Robot for Human Guidance and Autonomous Navigation</b>
 </p>
----
+
 
 ## Project Description
 
